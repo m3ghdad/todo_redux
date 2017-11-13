@@ -1,9 +1,0 @@
-index.html
-bundle.js (no need to create this file, webpack will create it for us)
-frontend
-  * actions
-  * components
-  * reducers
-  * store
-  * util
-  todo_redux.jsx
