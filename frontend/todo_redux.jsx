@@ -5,7 +5,7 @@ import configureStore from './store/store';
 const store = configureStore;
 //Remove after testing
 // -------------------
-window.sotre = store;
+window.store = store;
 
 
 //--------------------
