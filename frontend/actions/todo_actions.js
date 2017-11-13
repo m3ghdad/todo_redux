@@ -13,5 +13,5 @@ export const recieveTodo = (todo) => {
   return {
     type: RECIEVE_TODO,
     todo: todo
-  }
-}
+  };
+};
